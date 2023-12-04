@@ -1,5 +1,1 @@
-# Repoker
-
-Simple Poker program
-
 
